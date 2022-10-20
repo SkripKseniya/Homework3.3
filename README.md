@@ -6,4 +6,4 @@
 Город: Москва
 Тел.: 8-977-380-72-00
 
-![Мое фото](../Aboutme/images/picture.jpg)
+![picture](https://user-images.githubusercontent.com/116081510/196939291-72330ff0-2b34-4379-85b3-e1c1b227d612.jpg)
